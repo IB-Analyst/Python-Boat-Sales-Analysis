@@ -9,11 +9,11 @@ Yacht and boat sales website marketing team to produce a weekly newsletter for b
 
 ## Data
 
-The following dataset were used: boat_data
+The following dataset were used: boat_data.
 
 ## Tools
 
-Python was used in the analysis and the following libraries:Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Python was used in the analysis and the following libraries:Pandas, Numpy, Seaborn, Matplotlib, SciPy, Folium, JSON, Scikit-Learn, Pylab.
 
 ## Resources
 
