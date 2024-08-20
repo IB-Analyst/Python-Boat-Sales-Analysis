@@ -9,7 +9,7 @@ Yacht and boat sales website marketing team to produce a weekly newsletter for b
 
 ## Data
 
-The following dataset were used: 
+The following dataset were used: boat_data
 
 ## Tools
 
