@@ -11,9 +11,11 @@ Yacht and boat sales website marketing team to produce a weekly newsletter for b
 
 The following dataset were used: boat_data.
 
+[Link to visualization](https://public.tableau.com/views/Book1_17240991429740/Storyboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) in Tableau Public.
+
 ## Tools
 
-Python was used in the analysis and the following libraries:Pandas, Numpy, Seaborn, Matplotlib, SciPy, Folium, JSON, Scikit-Learn, Pylab.
+Python was used in the analysis and the following libraries: Pandas, Numpy, Seaborn, Matplotlib, SciPy, Folium, JSON, Scikit-Learn, Pylab.
 
 ## Resources
 
